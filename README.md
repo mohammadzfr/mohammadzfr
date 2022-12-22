@@ -1,7 +1,7 @@
 <!-- Animated Introduction (credits to DenverCoder1) -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=1500&color=FFE2E2&background=FFFFFF00&center=true&vCenter=true&repeat=true&width=435&lines=Hello!;My+Name+is+Mohammad+Zafar" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=1500&color=FFE2E2&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=435&lines=Hello!;My+Name+is+Mohammad+Zafar" />
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=1500&color=001D1D&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=435&lines=Hello!;My+Name+is+Mohammad+Zafar" />
   </picture>
   <h1></h1>
@@ -26,7 +26,7 @@
 <!-- Notable Repositories (credits to DenverCoder1) -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=1500&color=FFE2E2&background=FFFFFF00&center=true&vCenter=true&repeat=true&width=435&lines=Notable+Repositories" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=1500&color=FFE2E2&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=435&lines=Notable+Repositories" />
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=1500&color=001D1D&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=435&lines=Notable+Repositories" />
   </picture>
   <h1></h1>
