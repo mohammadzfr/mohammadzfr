@@ -1,16 +1,20 @@
-### Hi there 👋
+<!-- Animated Introduction (credits to DenverCoder1) -->
 
-<!--
-**mohammadzfr/mohammadzfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=500&color=FFE2E2&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=435&lines=Hello!;My+Name+is+Mohammad+Zafar" alt="Typing SVG" />
+  </a>
+</h1>
 
-Here are some ideas to get you started:
+<ul>
+  <li> Currently a Software Systems Engineering student at the <strong>University of Regina</strong> </li>
+  <li> Proficient in <strong>C++, Java, Python, and Visual Basic .NET</strong> </li>
+  <li> Learning <strong>HTML/CSS/JS, React and LabVIEW</strong> </li>
+  <li> Feel free to contact me and learn more through <a href=https://www.linkedin.com/in/mohammad-zafar-820675219/> LinkedIn </a> </li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=500&color=FFE2E2&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=435&lines=Notable+Repositories" alt="Typing SVG" />
+  </a>
+</h1>
