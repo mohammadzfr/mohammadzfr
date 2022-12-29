@@ -30,18 +30,3 @@
   </picture>
   <h1 />
 </div>
-
-<!-- Repository Cards (credits to Anuraghazra) -->
-<div align="center">
-  
-  [![BorealisAI-Dark](https://github-readme-stats.vercel.app/api/pin?username=mohammadzfr&repo=BorealisAI&theme=dark&title_color=FFE2E2#gh-dark-mode-only)](https://github.com/mohammadzfr/BorealisAI#gh-dark-mode-only)
-[![BorealisAI-Light](https://github-readme-stats.vercel.app/api/pin?username=mohammadzfr&repo=BorealisAI&theme=light&title_color=001D1D#gh-light-mode-only)](https://github.com/mohammadzfr/BorealisAI#gh-light-mode-only)
-    [![Python-Dark](https://github-readme-stats.vercel.app/api/pin?username=mohammadzfr&repo=Python&theme=dark&title_color=FFE2E2#gh-dark-mode-only)](https://github.com/mohammadzfr/Python#gh-dark-mode-only)
-[![Python-Light](https://github-readme-stats.vercel.app/api/pin?username=mohammadzfr&repo=Python&theme=light&title_color=001D1D#gh-light-mode-only)](https://github.com/mohammadzfr/Python#gh-light-mode-only)
-    [![Cpp-Dark](https://github-readme-stats.vercel.app/api/pin?username=mohammadzfr&repo=C&theme=dark&title_color=FFE2E2#gh-dark-mode-only)](https://github.com/mohammadzfr/C#gh-dark-mode-only)
-[![Cpp-Light](https://github-readme-stats.vercel.app/api/pin?username=mohammadzfr&repo=C&theme=light&title_color=001D1D#gh-light-mode-only)](https://github.com/mohammadzfr/C#gh-light-mode-only)
-    [![Recipes-Dark](https://github-readme-stats.vercel.app/api/pin?username=mohammadzfr&repo=Recipe-Site&theme=dark&title_color=FFE2E2#gh-dark-mode-only)](https://github.com/mohammadzfr/Recipe-Site#gh-dark-mode-only)
-[![Recipes-Light](https://github-readme-stats.vercel.app/api/pin?username=mohammadzfr&repo=Recipe-Site&theme=light&title_color=001D1D#gh-light-mode-only)](https://github.com/mohammadzfr/Recipe-Site#gh-light-mode-only)
-  
-</div>
-
