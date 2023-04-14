@@ -10,8 +10,10 @@
 <!-- Description -->
 <ul>
   <li> Currently a Software Systems Engineering student at the <strong>University of Regina</strong> </li>
-  <li> Proficient in <strong>C++, Java, Python, and Visual Basic .NET</strong> </li>
-  <li> Learning <strong>HTML/CSS/JS, React and LabVIEW</strong> </li>
+  <li> Proficient in <strong>C++, Java, Python, HTML/CSS/JS, and Visual Basic .NET</strong> </li>
+  <li> Learning <strong>mySQL, PHP, React, and LabVIEW</strong> </li>
+  <li> <strong>President of Computer Science Students' Society</strong> </li>
+  <li> <strong>VP Software of UofRobotics</strong> </li>
   <li> Feel free to contact me and learn more through <a href=https://www.linkedin.com/in/mohammad-zafar-820675219> LinkedIn </a><br /> </li>
 </ul>
 <!-- Github Stats (credits to Anuraghazra) -->
