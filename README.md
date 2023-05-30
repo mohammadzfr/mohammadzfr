@@ -17,12 +17,12 @@
   <li> Feel free to contact me and learn more through <a href=https://www.linkedin.com/in/mohammad-zafar-820675219> LinkedIn </a><br /> </li>
 </ul>
 <!-- Github Stats (credits to Anuraghazra) -->
-<div align="center">
+<!-- <div align="center">
   
   [![Github stats-Dark](https://github-readme-stats.vercel.app/api?username=mohammadzfr&show_icons=true&theme=dark&title_color=FFE2E2#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Github stats-Light](https://github-readme-stats.vercel.app/api?username=mohammadzfr&show_icons=true&theme=default&title_color=001D1D#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
   
-</div>
+</div> -->
 
 <!-- Notable Repositories (credits to DenverCoder1) -->
 <div align="center">
