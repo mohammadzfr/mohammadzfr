@@ -10,11 +10,10 @@
 <!-- Description -->
 <ul>
   <li> Currently a Software Systems Development student at the <strong>University of Regina</strong> </li>
-  <li> Proficient in <strong>C++, Java, Python, HTML/CSS/JS, Node.js, Visual Basic, mySQL, PHP</strong> </li>
-  <li> Learning <strong>React, and LabVIEW</strong> </li>
+  <li> Proficient in <strong>C++, Java, Python, HTML/CSS/JS, Node.js, ReactJS, mySQL, PHP</strong> </li>
   <li> <strong>President of Computer Science Students' Society</strong> </li>
   <li> <strong>VP Software of UofRobotics</strong> </li>
-  <li> Feel free to contact me and learn more through <a href=https://www.linkedin.com/in/mohammad-zafar-820675219> LinkedIn </a><br /> </li>
+  <li> Feel free to contact me and learn more through <a href=https://www.linkedin.com/in/mohammad-zfr> LinkedIn </a><br /> </li>
 </ul>
 <!-- Github Stats (credits to Anuraghazra) -->
 <!-- <div align="center">
