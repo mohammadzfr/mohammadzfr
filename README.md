@@ -8,13 +8,24 @@
 </div>
 
 <!-- Description -->
-<ul>
-  <li> Currently a Software Systems Development student at the <strong>University of Regina</strong> </li>
-  <li> Proficient in <strong>C++, Java, Python, HTML/CSS/JS, Node.js, ReactJS, mySQL, PHP</strong> </li>
-  <li> <strong>President of Computer Science Students' Society</strong> </li>
-  <li> <strong>VP Software of UofRobotics</strong> </li>
-  <li> Feel free to contact me and learn more through <a href=https://www.linkedin.com/in/mohammad-zfr> LinkedIn </a><br /> </li>
-</ul>
+Currently a Software Systems Development student at the **University of Regina**
+- **VP Software** of [UofRobotics](https://www.instagram.com/uof_robotics/)
+- Former **President** of [UofR Computer Science Students' Society](https://www.linkedin.com/company/uofr-computer-science-students-society)
+- Former **Machine Learning Developer** at [BorealisAI](https://www.borealisai.com/)
+- Check out my [website](http://mohammadzafar.com) to learn more
+## 🔨 Skills
+**Languages:** `C++` `HTML/CSS/JS` `Python` `Java` `mySQL` `PHP` `Visual Basic`
+
+**Frameworks** `ReactJS` `NextJS` `Tailwind` 
+
+**Technologies:** `NodeJS` `Firebase` `MongoDB` `Git`
+
+**Other:** `Figma` `VS Code` `WSL` `VirtualBox` `Jupyter Notebook` `Labelbox` `Microsoft 365`
+
+## 📪 Contact
+
+Feel free to contact me through [LinkedIn](https://www.linkedin.com/in/mohammadzfr)
+
 <!-- Github Stats (credits to Anuraghazra) -->
 <!-- <div align="center">
   
