@@ -8,7 +8,7 @@
 </div>
 
 <!-- Description -->
-Currently a Software Systems Development student at the **University of Regina**
+Currently a **BSc Software Systems Development** student at the University of Regina
 
 
 **Languages:** `C++` `HTML/CSS/JS` `Python` `Java` `mySQL` `PHP` `Visual Basic`
