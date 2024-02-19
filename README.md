@@ -9,7 +9,10 @@
 
 <!-- Description -->
 Currently a **Software Systems Development** student at the University of Regina
-
+- **VP Software** of [UofRobotics](https://www.instagram.com/uof_robotics/)
+- Former **President** of [UofR Computer Science Students' Society](https://www.linkedin.com/company/uofr-computer-science-students-society)
+- Former **Machine Learning Developer** at [BorealisAI](https://www.borealisai.com/)
+- Check out my [website](http://mohammadzafar.com) to learn more
 
 **Languages:** `C++` `HTML/CSS/JS` `Python` `Java` `mySQL` `PHP` `Visual Basic`
 
@@ -18,11 +21,8 @@ Currently a **Software Systems Development** student at the University of Regina
 **Technologies:** `NodeJS` `Firebase` `MongoDB` `Git`
 
 **Other:** `Figma` `VS Code` `WSL` `VirtualBox` `Jupyter Notebook` `Labelbox` `Microsoft 365`
-- **VP Software** of [UofRobotics](https://www.instagram.com/uof_robotics/)
-- Former **President** of [UofR Computer Science Students' Society](https://www.linkedin.com/company/uofr-computer-science-students-society)
-- Former **Machine Learning Developer** at [BorealisAI](https://www.borealisai.com/)
-- Check out my [website](http://mohammadzafar.com) to learn more
-- Feel free to contact me through [LinkedIn](https://www.linkedin.com/in/mohammadzfr)
+
+Feel free to contact me through [LinkedIn](https://www.linkedin.com/in/mohammadzfr)
 
 
 <!-- Github Stats (credits to Anuraghazra) -->
