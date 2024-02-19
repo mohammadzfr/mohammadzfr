@@ -13,18 +13,7 @@ Currently a Software Systems Development student at the **University of Regina**
 - Former **President** of [UofR Computer Science Students' Society](https://www.linkedin.com/company/uofr-computer-science-students-society)
 - Former **Machine Learning Developer** at [BorealisAI](https://www.borealisai.com/)
 - Check out my [website](http://mohammadzafar.com) to learn more
-## 🔨 Skills
-**Languages:** `C++` `HTML/CSS/JS` `Python` `Java` `mySQL` `PHP` `Visual Basic`
-
-**Frameworks** `ReactJS` `NextJS` `Tailwind` 
-
-**Technologies:** `NodeJS` `Firebase` `MongoDB` `Git`
-
-**Other:** `Figma` `VS Code` `WSL` `VirtualBox` `Jupyter Notebook` `Labelbox` `Microsoft 365`
-
-## 📪 Contact
-
-Feel free to contact me through [LinkedIn](https://www.linkedin.com/in/mohammadzfr)
+- Feel free to contact me through [LinkedIn](https://www.linkedin.com/in/mohammadzfr)
 
 <!-- Github Stats (credits to Anuraghazra) -->
 <!-- <div align="center">
