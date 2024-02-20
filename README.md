@@ -20,7 +20,7 @@ Currently a **Software Systems Development** student at the University of Regina
 
 **Technologies:** `NodeJS` `Firebase` `MongoDB` `Git`
 
-**Other:** `Figma` `VS Code` `WSL` `VirtualBox` `Jupyter Notebook` `Labelbox` `Microsoft 365`
+**Tools:** `Figma` `VS Code` `WSL` `VirtualBox` `Jupyter Notebook` `Labelbox` `Microsoft 365`
 
 ‎ 
 
