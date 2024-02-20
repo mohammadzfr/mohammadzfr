@@ -22,6 +22,8 @@ Currently a **Software Systems Development** student at the University of Regina
 
 **Other:** `Figma` `VS Code` `WSL` `VirtualBox` `Jupyter Notebook` `Labelbox` `Microsoft 365`
 
+‎ 
+
 Feel free to contact me through [LinkedIn](https://www.linkedin.com/in/mohammadzfr)
 
 
