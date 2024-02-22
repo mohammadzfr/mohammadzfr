@@ -18,7 +18,7 @@ Currently a **Software Systems Development** student at the University of Regina
 
 **Frameworks** `ReactJS` `NextJS` `Tailwind` 
 
-**Technologies:** `NodeJS` `Firebase` `MongoDB` `Git`
+**Technologies:** `NodeJS` `Firebase` `MongoDB` `Ansible` `nginx` `Docker` `Kubernetes` `Git` 
 
 **Tools:** `Figma` `VS Code` `WSL` `VirtualBox` `Jupyter Notebook` `Labelbox` `Microsoft 365`
 
